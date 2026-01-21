@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-discord.py
-python-multipart
-requests
